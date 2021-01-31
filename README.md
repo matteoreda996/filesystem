@@ -1,3 +1,3 @@
 # filesystem project
 
-Link delle specifiche [SPECIFICHE](Specifiche File System.pdf)
+Link delle specifiche [SPECIFICHE](Specifiche_File_System.pdf)
